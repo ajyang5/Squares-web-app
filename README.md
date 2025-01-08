@@ -4,6 +4,5 @@ This application allows users to edit images made up of squares and to save them
 
 Instruction: Install the node modules, with npm install--no-audit, in both the client and server directories. Start both the client and server by running npm run start in both directories. Then navigate to where the client is running http://localhost:8080/. 
 
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/70a83b05-ffcb-43c4-8915-dfd603b2bf78)" width="48">
-![image2](https://github.com/user-attachments/assets/613ef5f1-4bad-4694-8e08-e15f7c2f5541)
 ![image1](https://github.com/user-attachments/assets/70a83b05-ffcb-43c4-8915-dfd603b2bf78)
+
