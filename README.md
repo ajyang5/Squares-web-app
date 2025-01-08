@@ -1,4 +1,4 @@
-# Squares-web-app
+# Squares (web-app)
 
 This application allows users to edit images made up of squares and to save them to and load them from a server. Users can: Create and edit squares, recursively splitting or merging them. Change colors of individual squares (red, orange, yellow, green, blue, purple, white). Name each design and save it to the server. Load previously saved designs and list all existing design names. Unit tests are included.
 
